@@ -29,6 +29,7 @@ Se encuentra un alto índice de abandono o evasión (Churn) en los usuarios con 
 ![Image](https://github.com/user-attachments/assets/8621bd70-d473-4709-ae86-e95860abf0e6)
 
 Se evidencia que la gran mayoría de los clientes de la empresa están en un rango de menos de 1000 USD de gastos anuales, y las personas que abandonan o evaden (Churn), en su gran mayoría están en este rango, aunque la mediana de los que no evaden es mayor que la de las personas que evaden.
+
 ![Image](https://github.com/user-attachments/assets/31141db7-f85c-4002-aa0d-8f41c291045c)
 
 El tiempo en el que se encuentran las personas que abandonan o evaden (Churn) se sitúa en una tenencia (Tenure) de su contrato igual o menor a 30 meses. La media de las personas que no evaden es cercana a 40 meses de tenencia, mientras que la media de los que abandonan es alrededor de 12 meses de tenencia.
